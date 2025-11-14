@@ -5,6 +5,8 @@ This project is a comprehensive hotel management system, built to support operat
 
 ***
 
+#Link deploy: https://dangngocthanhk18.github.io/FU-FA25-SE1879-JV-SBA301-G2/
+
 ## Technologies Used
 
 The project is built using a decoupled (backend/frontend directories) architecture with the following core technologies:
